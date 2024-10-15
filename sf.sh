@@ -51,3 +51,4 @@ function getfirefoxcontainer(){
     lscr.io/linuxserver/firefox:latest
 }
 getfirefoxcontainer
+#
